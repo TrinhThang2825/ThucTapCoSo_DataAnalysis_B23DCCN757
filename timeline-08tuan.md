@@ -16,7 +16,7 @@
     * [x] Nghiên cứu / đề tài / dự án
 * **1–3 kỹ năng chính:** Python (Pandas/Numpy), SQL (Data Querying), Data Visualization (Matplotlib/Seaborn).
 * **Bài toán / nội dung áp dụng cụ thể:** Phân tích xu hướng thị trường và đánh giá sản phẩm trên sàn thương mại điện tử (E-commerce). Tập trung vào luồng xử lý dữ liệu (ETL), phân tích tương quan giữa đánh giá người dùng (Rating) và doanh số để tìm ra các mặt hàng tiềm năng.
-* **Link GitHub repository:** https://github.com/TrinhThang2825/B23DCCN757_Ecommerce_Analysis
+* **Link GitHub repository:** https://github.com/TrinhThang2825/[B23DCCN757_Ecommerce_Analysis](https://github.com/TrinhThang2825/ThucTapCoSo_DataAnalysis_B23DCCN757/tree/main)
 * **Làm việc nhóm (nếu có):** Không
 
 ---
@@ -48,4 +48,4 @@
 - Hướng dẫn cách tối ưu hóa các câu lệnh SQL khi xử lý tập dữ liệu có quy mô lớn.
 - Tư vấn cách trình bày Insights trên file Markdown sao cho chuyên nghiệp.
 
-**Link repository cuối cùng:** https://github.com/TrinhThang2825/B23DCCN757_Ecommerce_Analysis
+**Link repository cuối cùng:** https://github.com/TrinhThang2825/[B23DCCN757_Ecommerce_Analysis](https://github.com/TrinhThang2825/ThucTapCoSo_DataAnalysis_B23DCCN757/tree/main)
