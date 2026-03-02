@@ -13,4 +13,4 @@ Dự án tập trung vào việc xử lý dữ liệu từ các sàn TMĐT (Shop
 
 ## 📁 Tài liệu quan trọng
 - [Kế hoạch thực tập 08 tuần (timeline-08tuan.md)](./timeline-08tuan.md)
-- [Báo cáo kết quả giữa kỳ](./reports/)
+- [Báo cáo kết quả](./reports/)
