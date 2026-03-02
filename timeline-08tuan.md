@@ -25,7 +25,7 @@
 
 | Tuần | Nhiệm vụ | Trạng thái | Kết quả đầu ra | Ghi chú |
 | :--- | :--- | :---: | :--- | :--- |
-| **Tuần 1** | Tìm kiếm Dataset trên Kaggle; Khởi tạo cấu trúc Repo GitHub (data, notebooks, src, reports). | [x] | Link Repo & Dataset thô | Khởi động |
+| **Tuần 1** | Tìm kiếm Dataset trên Kaggle; Khởi tạo cấu trúc Repo GitHub (data, notebooks, src, reports). | [x] | [Thư mục data/](./data/) | Đã hoàn thiện cấu trúc và upload dataset |
 | **Tuần 2** | Thiết lập môi trường; Sử dụng SQL để truy vấn doanh thu theo tháng và lọc đơn hàng thành công. | [ ] | File `01_sql_queries.ipynb` | **Trao đổi 1** |
 | **Tuần 3** | Làm sạch dữ liệu (Data Cleaning): Xử lý giá trị rỗng (Null), trùng lặp và chuẩn hóa kiểu dữ liệu. | [ ] | Dataset sạch trong `/data` | |
 | **Tuần 4** | Phân tích thống kê mô tả: Tính toán trung bình, trung vị, độ lệch chuẩn và các chỉ số tăng trưởng. | [ ] | File `02_descriptive_stats.ipynb` | **Trao đổi 2** |
