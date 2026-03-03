@@ -26,11 +26,11 @@
 | Tuần | Nhiệm vụ | Trạng thái | Kết quả đầu ra | Ghi chú |
 | :--- | :--- | :---: | :--- | :--- |
 | **Tuần 1** | Tìm kiếm Dataset trên Kaggle; Khởi tạo cấu trúc Repo GitHub (data, notebooks, src, reports). | [x] | [Thư mục data/](./data/) | Đã hoàn thiện cấu trúc và upload dataset |
-| **Tuần 2** | Thiết lập môi trường; Sử dụng SQL để truy vấn doanh thu theo tháng và lọc đơn hàng thành công. | [ ] | File `01_sql_queries.ipynb` | **Trao đổi 1** |
+| **Tuần 2** | Thiết lập môi trường; Sử dụng SQL để truy vấn doanh thu theo tháng và lọc đơn hàng thành công. | [ ] | File `01_sql_queries.ipynb` | |
 | **Tuần 3** | Làm sạch dữ liệu (Data Cleaning): Xử lý giá trị rỗng (Null), trùng lặp và chuẩn hóa kiểu dữ liệu. | [ ] | Dataset sạch trong `/data` | |
-| **Tuần 4** | Phân tích thống kê mô tả: Tính toán trung bình, trung vị, độ lệch chuẩn và các chỉ số tăng trưởng. | [ ] | File `02_descriptive_stats.ipynb` | **Trao đổi 2** |
+| **Tuần 4** | Phân tích thống kê mô tả: Tính toán trung bình, trung vị, độ lệch chuẩn và các chỉ số tăng trưởng. | [ ] | File `02_descriptive_stats.ipynb` | |
 | **Tuần 5** | Trực quan hóa dữ liệu: Vẽ biểu đồ cột (doanh thu), tròn (thị phần) và đường (xu hướng). | [ ] | Các file ảnh trong `/reports` | |
-| **Tuần 6** | Phân tích sâu: So sánh hiệu suất giữa các ngành hàng; Phân tích tương quan giữa Rating và Sales. | [ ] | File `03_correlation_analysis.ipynb` | **Trao đổi 3** |
+| **Tuần 6** | Phân tích sâu: So sánh hiệu suất giữa các ngành hàng; Phân tích tương quan giữa Rating và Sales. | [ ] | File `03_correlation_analysis.ipynb` | |
 | **Tuần 7** | Tổng kết Insight: Viết nhận xét về xu hướng thị trường; Hoàn thiện file báo cáo Markdown. | [ ] | File `Final_Report.md` | |
 | **Tuần 8** | Đóng gói mã nguồn; Hoàn thiện README; Chuẩn bị Slide thuyết trình cuối kỳ. | [ ] | Link Repo hoàn thiện | **Trao đổi 4** |
 
