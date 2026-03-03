@@ -11,7 +11,7 @@
 ## 2. Đăng ký chủ đề thực tập
 
 * **Định hướng (roadmap.sh):**
-    * [ ] Cải thiện / tập trung vào một kỹ năng
+    * [x] Cải thiện / tập trung vào một kỹ năng
     * [ ] Kỹ năng mới / trend
     * [x] Nghiên cứu / đề tài / dự án
 * **1–3 kỹ năng chính:** Python (Pandas/Numpy), SQL (Data Querying), Data Visualization (Matplotlib/Seaborn).
