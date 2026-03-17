@@ -32,7 +32,7 @@
 * **Mục tiêu tuần:** Thiết lập môi trường và nắm vững cấu trúc Repo chuẩn.
 * **Tìm hiểu / Đọc:**
 | Nội dung cần đọc / tìm hiểu | Nguồn tham khảo | Trạng thái | Ghi chú / Điều đã hiểu |
-| :--- | :--- | :---: | :--- |
+| --- | --- | --- | --- |
 | Cấu trúc dự án chuẩn và cách quản lý GitHub | roadmap.sh | [x] | Hiểu cách phân bổ thư mục data/docs/src |
 | Markdown Guide cho GitHub | GitHub Docs | [x] | Biết cách trình bày bảng và tài liệu chuyên nghiệp |
 
@@ -40,6 +40,8 @@
 | Nhiệm vụ | Kết quả đầu ra | Trạng thái | Ghi chú |
 | :--- | :--- | :---: | :--- |
 | Khởi tạo Repo, thiết lập cấu trúc thư mục chuẩn | Khung thư mục dự án | [x] | Đã hoàn thành đúng định dạng yêu cầu |
+
+---
 
 ### Tuần 2 – Triển khai cơ bản (Buổi trao đổi 1)
 * **Mục tiêu tuần:** Thực hiện khởi tạo dữ liệu giả lập (Synthetic Data).
