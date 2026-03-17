@@ -18,9 +18,9 @@
 
 ## 3. Đăng ký chủ đề thực tập
 * **Định hướng:** [x] Cải thiện / củng cố kỹ năng đang có (7–8)
-* **1–2 kỹ năng chính muốn học / cải thiện:**
-    1. **Python (Pandas):** Xử lý, làm sạch và thống kê dữ liệu.
-    2. **Data Visualization:** Trực quan hóa kết quả phân tích bằng biểu đồ chuyên nghiệp.
+* **1–3 kỹ năng chính muốn học / cải thiện:**
+    ##1. **Python (Pandas):** Xử lý, làm sạch và thống kê dữ liệu.
+    ##2. **Data Visualization:** Trực quan hóa kết quả phân tích bằng biểu đồ chuyên nghiệp.
 * **Bài toán / nội dung áp dụng cụ thể:** Phân tích dữ liệu giả lập thị trường Laptop 2026. Xây dựng luồng xử lý từ bước khởi tạo dữ liệu giả lập đến bước xuất báo cáo Insight về mối tương quan giữa cấu hình (RAM, Brand) và giá bán (Price).
 * **Làm việc nhóm (nếu có):** Không.
 
